@@ -3,7 +3,7 @@ Android App Development &amp; Web Promotion in Synchronous or A-Synchronous Enga
 
 Websites: see https://github.com/QEHS-Websites/Overview
 
-See Below for Android App Development
+See Intermediate Android App Development: https://github.com/Intermediate-App-Dev-and-Deploy
 
 ---
 
