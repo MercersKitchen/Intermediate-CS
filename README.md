@@ -5,6 +5,8 @@ Websites: see https://github.com/QEHS-Websites/Overview
 
 See Intermediate Android App Development: https://github.com/Intermediate-App-Dev-and-Deploy
 
+See Old Repository: https://github.com/MercersKitchen/Intermediate-Computer-Science
+
 ---
 
 # Reviewing Processing
