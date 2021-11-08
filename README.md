@@ -25,6 +25,7 @@ See: https://github.com/Intro-CS-App-Dev-and-Deploy/Overview#computer-apps
 
 #### Weather App, API, and Population of Variables (leads to Constructor in OPP)
 - Prototype Weather App, then Design GUI with rect() and paper
+  - See GitHub: https://github.com/Intermediate-App-Dev-and-Deploy/Weather-App
 - Lessons about API and Population of Variables
 - Finish Weather App: reviews lessons from above
 
