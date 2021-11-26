@@ -29,6 +29,15 @@ See: https://github.com/Intro-CS-App-Dev-and-Deploy/Overview#computer-apps
 - Lessons about API and Population of Variables
 - Finish Weather App: reviews lessons from above
 
+#### Text to Canvas with Algorithm to set size
+- **Purpse:** when the geometry changes, the font size automatically changes
+- Mercer's Kithchen: https://github.com/Intermediate-App-Dev-and-Deploy/Text-Prototyping
+- See https://processing.org/reference/textWidth_.html
+- Basic Algorithm: WHILE `textWidth(String)` > `rectWidth` textSize--
+- CAUTION: font may need % reduction due to WHITESPACE design (returns disappearance in canvas if *too big*)
+- Note: introduce WHILE as iteration without knowing how many interations needed
+- Reminder: FOR requires known interations
+
 #### Tic Tac Toe Algorithms
 TBA
 
