@@ -39,7 +39,8 @@ See: https://github.com/Intro-CS-App-Dev-and-Deploy/Overview#computer-apps
 - Reminder: FOR requires known interations
 
 #### Tic Tac Toe Algorithms
-TBA
+- TBA
+- See GitHub: https://github.com/Intermediate-App-Dev-and-Deploy/Tic-Tac-Toe-Project
 
 ---
 
