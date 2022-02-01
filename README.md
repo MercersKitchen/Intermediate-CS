@@ -67,3 +67,13 @@ Data Structures: Trees (https://www.youtube.com/watch?v=oSWTXtMglKE)
 Data Structures: Hash Tables (https://www.youtube.com/watch?v=shs0KM3wKv8)
 
 ---
+
+Five Mandatory Pieces of a Computer Environment for Websites
+
+https://github.com/QEHS-Websites/Overview#five-mandatory-pieces-of-a-computer-environment-for-websites
+
+Five Mandatory Pieces of a Computer Environment for Android Apps
+
+https://github.com/Intro-CS-App-Dev-and-Deploy/Overview#five-mandatory-pieces-of-a-computer-environment-for-android-apps
+
+---
