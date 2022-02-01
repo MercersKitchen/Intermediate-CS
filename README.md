@@ -1,33 +1,104 @@
 # Intermediate-CS
 Android App Development &amp; Web Promotion in Synchronous or A-Synchronous Engagement
 
-Websites: see https://github.com/QEHS-Websites/Overview
+---
 
-See Intermediate Android App Development: https://github.com/Intermediate-App-Dev-and-Deploy
+# Review Progression
+- Case Study for Choose Your Own Adventure
+- Review Processing-Java
+- Website Promotion of Choose Your Own Adventure OR a Website for this as a more developed *book* (using JavaScript Lessons as code to develop book-metaphor)
+
+# Website Promotion
+
+Websites: see *insert link here*
+
+Extending Portfolio Development and GitHub Hosting from Introductory CS to including JavaScript
+- Website will change based on interactions
+
+---
+
+# Android App Development
+
+Hyperlinks: *insert link here*
 
 See Old Repository: https://github.com/MercersKitchen/Intermediate-Computer-Science
+
+Extending the GUI Focus of Introductory CS to include Simple Game Design and App Design, improving user experience
+- APIs for Sensor and Variable Population (Weather App)
+- Tic Tac Toe Computer Player Mode
+
+---
+
+### Other details: this *Science Option* does **not** include a *Diploma Exam*
+- "The Grade" is only between the student and Mr. Mercer
+- Learning, Evaluation, and Assessment
+
+### Industry-level: Hosing code, versions, final version and executables in GitHub
+- Exporting executables in processing are important in grading
+- Jar Files, dependencies processing has added that might be different on my machine, will be included
+- Exemplar executable program files one step from deploying to Android, <a href="">Click Here when Available</a>
+
+### GitHub Quick Notes for Android Hosting
+
+<a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Device-Sideloading-Android#2020-2021-processing-emulator-instructions">Instructions for using an Emulator</a>
+
+<a href="https://github.com/MercersKitchen/Device-Sideloading-Android">Full Device Side-loading Instructions</a>
+- see http://ketai.org/
+- See Student Exemplars, <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Android-App-Exemplars">here</a>
+
+### REVIEW: Five Mandatory Pieces of a Computer Environment for Websites
+https://github.com/QEHS-Websites/Overview#five-mandatory-pieces-of-a-computer-environment-for-websites
+
+### REVIEW: Five Mandatory Pieces of a Computer Environment for Android Apps
+https://github.com/Intro-CS-App-Dev-and-Deploy/Overview#five-mandatory-pieces-of-a-computer-environment-for-android-apps
+
+---
+
+# How we learn
+
+Coding the Hard Way: typing out every line, sometimes using copy and paste
+- Caution: Processing-JAVA will break if copy and paste is used too much (copy into Notepad to delete hidden formatting characters or retype the entire doc)
+- See https://github.com/QEHS-ProcessingJava/Common-Syntax-Error-and-Solution
+- Mr. Mercer will demonstrate his method for typing code
+
+Evaluation: bugs and talking about code provides Mr. Mercer anecdotal evidence of your learning
+
+Assessment: multiple types
+- submitting coded apps so Mr. Mercer can experience the user experience and read some code
+- submitting narrated videos (max 60 seconds) of code highlighting coding structures Mr. Mercer is asking for while explaining what they do (arithmetic, GUI & Design, loops, decisions, behaviors, interactions, other groups of code, etc.)
+- Coding smaller solutions to a subproblem, then combining solutions for the larger problem demonstrates increasing sophistications of computational thinking
 
 ---
 
 # Reviewing Processing
 See: https://github.com/Intro-CS-App-Dev-and-Deploy/Overview#computer-apps
-- Creating a 3x3 "Choose Your Own Adventure" (previous Home Screen Assignment and Tic-tak-toe Introduction), review this assignment and Processing-JAVA
-  - 2D Images & Composite Shapes
-  - Text: flat and algorithm for developing size calculator (algorithm ends itself)
-    - https://github.com/Intermediate-App-Dev-and-Deploy/Text-Prototyping
-  - Images
+- 2D Images & Composite Shapes
+- Text: flat and algorithm for developing size calculator (algorithm ends itself)
+- Images
 - Buttons
 - Sound and Music
+
+### Review Assignment
+- Using the Introductory "3x3 Assignment", create a Case Study for ...
+- Creating a "Choose Your Own Adventure"
+  1. Create a story from images (no more than 9, able to reuse images if necessary)
+  2. must create simple text
+     - 1-image per box (9-total images to tell a story)
+     - 1-sentence description of each image
+     - 1-choice with at least two pathways (use clickable buttons)
+  3. organize images and text into flowchart (similar to flowcharting a case study or "how a program behaves")
+  4. download background music and sound effects (i.e. YouTube Audio Library)
+  5. starting with primitive date, brainstorm ways data could be organized differently (use experience from Play Lists in Music Player App Project)
+- Reorganize the 3x3 Case Study into different single images
+- Review Booleans to create different "pages", a metaphor for more complicated programs
+
+---
+
+# CONTINUE HERE
 
 ---
 
 # Next Steps ...
-
-#### Weather App, API, and Population of Variables (leads to Constructor in OPP)
-- Prototype Weather App, then Design GUI with rect() and paper
-  - See GitHub: https://github.com/Intermediate-App-Dev-and-Deploy/Weather-App
-- Lessons about API and Population of Variables
-- Finish Weather App: reviews lessons from above
 
 #### Text to Canvas with Algorithm to set size
 - **Purpse:** when the geometry changes, the font size automatically changes
@@ -37,6 +108,12 @@ See: https://github.com/Intro-CS-App-Dev-and-Deploy/Overview#computer-apps
 - CAUTION: font may need % reduction due to WHITESPACE design (returns disappearance in canvas if *too big*)
 - Note: introduce WHILE as iteration without knowing how many interations needed
 - Reminder: FOR requires known interations
+
+#### Weather App, API, and Population of Variables (leads to Constructor in OPP)
+- Prototype Weather App, then Design GUI with rect() and paper
+  - See GitHub: https://github.com/Intermediate-App-Dev-and-Deploy/Weather-App
+- Lessons about API and Population of Variables
+- Finish Weather App: reviews lessons from above
 
 #### Tic Tac Toe Algorithms
 - TBA
@@ -65,15 +142,5 @@ Data Structures: Crash Course Computer Science #14: https://www.youtube.com/watc
 Data Structures: Trees (https://www.youtube.com/watch?v=oSWTXtMglKE)
 
 Data Structures: Hash Tables (https://www.youtube.com/watch?v=shs0KM3wKv8)
-
----
-
-Five Mandatory Pieces of a Computer Environment for Websites
-
-https://github.com/QEHS-Websites/Overview#five-mandatory-pieces-of-a-computer-environment-for-websites
-
-Five Mandatory Pieces of a Computer Environment for Android Apps
-
-https://github.com/Intro-CS-App-Dev-and-Deploy/Overview#five-mandatory-pieces-of-a-computer-environment-for-android-apps
 
 ---
