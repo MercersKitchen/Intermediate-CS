@@ -1,15 +1,10 @@
 # Intermediate-CS
 Android App Development &amp; Web Promotion in Synchronous or A-Synchronous Engagement
 
-**NOTE**: only have a Chromebook? 
-- REPL.IT or https://replit.com/ is a good option that fully syncs to GitHub 
+**NOTE**: only have a Chromebook?
+- REPL.IT or https://replit.com/ is a good option that fully syncs to GitHub
 
 ---
-
-# Review Progression
-- Case Study for Choose Your Own Adventure
-- Review Processing-Java
-- Website Promotion of Choose Your Own Adventure OR a Website for this as a more developed *book* (using JavaScript Lessons as code to develop book-metaphor)
 
 # Website Promotion
 
@@ -72,6 +67,11 @@ Assessment: multiple types
 - Coding smaller solutions to a subproblem, then combining solutions for the larger problem demonstrates increasing sophistications of computational thinking
 
 ---
+
+# Review Progression
+- Case Study for Choose Your Own Adventure
+- Review Processing-Java
+- Website Promotion of Choose Your Own Adventure OR a Website for this as a more developed *book* (using JavaScript Lessons as code to develop book-metaphor)
 
 # Reviewing Processing
 See: https://github.com/Intro-CS-App-Dev-and-Deploy/Overview#computer-apps
