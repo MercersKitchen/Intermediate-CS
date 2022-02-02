@@ -78,19 +78,24 @@ See: https://github.com/Intro-CS-App-Dev-and-Deploy/Overview#computer-apps
 - Buttons
 - Sound and Music
 
-### Review Assignment
+### Review Assignment: Practicing Narratives for the interaction of apps
 - Using the Introductory "3x3 Assignment", create a Case Study for ...
 - Creating a "Choose Your Own Adventure"
   1. Create a story from images (no more than 9, able to reuse images if necessary)
-  2. must create simple text
-     - 1-image per box (9-total images to tell a story)
-     - 1-sentence description of each image
-     - 1-choice with at least two pathways (use clickable buttons)
-  3. organize images and text into flowchart (similar to flowcharting a case study or "how a program behaves")
-  4. download background music and sound effects (i.e. YouTube Audio Library)
-  5. starting with primitive date, brainstorm ways data could be organized differently (use experience from Play Lists in Music Player App Project)
+    - at least 2 characters: the reader and the one in the story
+    - For Example: "Walking Down my Street"
+    - For Example: with each choice we get to know the character in the story more until the end
+  3. must create simple text
+    - 1-image per box (9-total images to tell a story)
+    - 1-sentence description of each image
+    - 1-choice with at least two pathways (use clickable buttons)
+  4. organize images and text into flowchart (similar to flowcharting a case study or "how a program behaves")
+  5. download background music and sound effects (i.e. YouTube Audio Library)
+  6. starting with primitive date, brainstorm ways data could be organized differently (use experience from Play Lists in Music Player App Project)
 - Reorganize the 3x3 Case Study into different single images
 - Review Booleans to create different "pages", a metaphor for more complicated programs
+
+Note: see https://github.com/Advanced-App-Dev-and-Deploy/Choose-Own-Adventure
 
 ---
 
