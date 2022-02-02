@@ -1,6 +1,9 @@
 # Intermediate-CS
 Android App Development &amp; Web Promotion in Synchronous or A-Synchronous Engagement
 
+**NOTE**: only have a Chromebook? 
+- REPL.IT or https://replit.com/ is a good option that fully syncs to GitHub 
+
 ---
 
 # Review Progression
