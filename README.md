@@ -8,10 +8,12 @@ Android App Development &amp; Web Promotion in Synchronous or A-Synchronous Enga
 
 # Website Promotion
 
-Websites: see *insert link here*
+Websites: see <a href="https://github.com/QEHS-Websites/Overview">Click Here</a>
 
-Extending Portfolio Development and GitHub Hosting from Introductory CS to including JavaScript
-- Website will change based on interactions
+Extending Portfolio Development and GitHub Hosting from Introductory CS to including JavaScript (Full HTML5)
+- Rendered ReadMe.md Files and Simple GitHub Markdown
+- Hosted HTML with inline CSS
+- Hosted HTML5
 
 ---
 
@@ -68,6 +70,9 @@ Assessment: multiple types
 
 ---
 
+# UNDER CONSTRUCTION
+
+---
 # Review Progression
 - Case Study for Choose Your Own Adventure
 - Review Processing-Java
