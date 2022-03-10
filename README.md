@@ -158,14 +158,13 @@ Data Structures: Hash Tables (https://www.youtube.com/watch?v=shs0KM3wKv8)
 
 ---
 
-Reminder about Creating Releases for Due Dates
-- Pong must be exported, saved in GitHub, and available for download
-- File / Export: exports Processing and Java files (called jar files) so the Processing and Java Installations and configuration are not required, automatically runs as if on your computer (after downloaded)
-- Must share the GitHub URL to find your final version
-
-Note for GitHub: to make a release, see "Releases" in your Repositories
+Reminder about Creating RELEASES for Due Dates
+- Releases are created from your most recent "stable version" or due date using the MAIN Branch
 - Reminder: Create a TAG like BETA (press the ADD Button)
-- Reminder: Drag and Drop your files into BINARY
+- If you have access to a non-school computer, you can also EXPORT your program so it runs on any computer like it is yours. This helps with grading
+  - File / Export: exports Processing and Java files (called jar files) so the Processing and Java Installations and configuration are not required, automatically runs as if on your computer (after downloaded)
+  - If you EXPORT,  Reminder: Drag and Drop your files into BINARY
+- Must share GitHub URL for your RELEASE to find your final version
 - Alternatively, create a new Repository or Folder and Upload the exported file there.
 
 ---
