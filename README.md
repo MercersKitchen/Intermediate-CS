@@ -8,7 +8,7 @@ Android App Development &amp; Web Promotion in Synchronous or A-Synchronous Enga
 
 # Website Promotion
 
-Websites: see <a href="https://github.com/QEHS-Websites/Overview">Click Here</a>
+Websites: see <a href="https://github.com/QEHS-Websites/Overview/blob/main/README.md#intermedicate-html--css">Click Here</a>
 
 Extending Portfolio Development and GitHub Hosting from Introductory CS to including JavaScript (Full HTML5)
 - Rendered ReadMe.md Files and Simple GitHub Markdown
