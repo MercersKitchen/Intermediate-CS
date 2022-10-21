@@ -10,10 +10,19 @@ Android App Development &amp; Web Promotion in Synchronous or A-Synchronous Enga
 
 Websites: see <a href="https://github.com/QEHS-Websites/Overview/blob/main/README.md#intermedicate-html--css">Click Here</a>
 
-Extending Portfolio Development and GitHub Hosting from Introductory CS to including JavaScript (Full HTML5)
+Other links
+
+**Extending Portfolio Development and GitHub Hosting from Introductory CS to including JavaScript (Full HTML5)**
+
+CS10
 - Rendered ReadMe.md Files and Simple GitHub Markdown
 - Hosted HTML with inline CSS
 - Hosted HTML5
+
+CS20
+- Hosted HTML with CSS (file - head-based style - inline)
+- JavaScript Assignments
+- Business Style Promotion Webpage
 
 ---
 
