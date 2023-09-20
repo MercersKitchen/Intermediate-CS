@@ -28,7 +28,7 @@ CS20
 
 # Android App Development
 
-Hyperlinks: *insert link here*
+Hyperlinks: https://github.com/Intermediate-App-Dev-and-Deploy/Overview-Intermediate-20230919
 
 See Old Repository: https://github.com/MercersKitchen/Intermediate-Computer-Science
 
