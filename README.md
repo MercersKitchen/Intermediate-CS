@@ -177,3 +177,14 @@ Reminder about Creating RELEASES for Due Dates
 - Alternatively, create a new Repository or Folder and Upload the exported file there.
 
 ---
+
+# To Include: New Progressions
+
+Timer App
+
+Num Pad Sandbox, basic 3 by 4 matrix in FOR
+- counting by ones (i++)
+- i becomes even numbers (2i)
+- i becomes odd numbers (2i+1)
+
+---
